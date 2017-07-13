@@ -15,8 +15,8 @@ from unfollow_protocol import unfollow_protocol
 bot = InstaBot(
     login="foggyshit",
     password="foggy123",
-    like_per_day=1000000,
-    comments_per_day=25000,
+    like_per_day=850,
+    comments_per_day=100,
     tag_list=['follow4follow', 'f4f', 'cute'],
     tag_blacklist=['rain', 'thunderstorm'],
     user_blacklist={},
