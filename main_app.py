@@ -5,6 +5,5 @@ app = flask.Flask(__name__)
 
 def index():
     #do whatevr here...
-    example.maine()
-    return "Hello Heruko"
+    return "Helloz there is a Instagram Bot working in the background."
 
